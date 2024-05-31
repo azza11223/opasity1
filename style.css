@@ -1,0 +1,45 @@
+body{
+    background-image: url(4a04093569f391a58b35ac21bab9984b.png) ;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.box1,.box2,.box3,.box4{
+    width:420px;
+    height:640px;
+}
+.box1{
+
+background-color: rgba(219, 197, 0, 0.5);
+opacity: 80%; 
+display: inline-block;
+margin-left: 14px;
+
+
+}
+.box2{
+    
+    background-color:rgba(219, 197, 0, 0.4);
+    opacity: 80%; 
+    display: inline-block;
+    margin-left: 14px;
+   
+   
+}
+.box3{
+    
+    background-color:rgba(219, 197, 0, 0.7);
+    opacity: 80%; 
+    display: inline-block;
+    margin-left: 14px;
+    margin-top: 14px;
+    
+}
+.box4{
+    
+    background-color: rgba(219, 197, 0, 0.35);
+    opacity: 80%; 
+    display: inline-block;
+    margin-left: 14px;
+    
+}
